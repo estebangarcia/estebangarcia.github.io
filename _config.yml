@@ -20,19 +20,25 @@
 
 title: "The Kube Chronicles: A DevOps Odyssey"
 tagline: Esteban Garcia blog on DevOps, Kubernetes, and more
-email: me@estebangarcia.io
 description: >- # this means to ignore newlines until "baseurl:"
   Join me on an epic journey through the wild and ever-changing landscape of DevOps and Kubernetes.
   From the depths of infrastructure development to the heights of developer experience, 
   I'll share my adventures, insights, and solutions as we explore the exciting world of modern infrastructure
-author: "Esteban Garcia"
+author:
+  name: Esteban Garcia
+  email: "me@estebangarcia.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estebangarcia.io" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: "esteban-garcia-ba57b325"
-github_username:  estebangarcia
+
+show_excerpts: true
 
 # Build settings
 theme: minima
+minima:
+  skin: solarized-dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/estebangarcia" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/esteban-garcia-ba57b325/" }
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
