@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome!"
-date:   2023-08-01 16:15:00 +0000
+date:   2023-08-01 15:15:00 +0100
 categories: introduction
 ---
 Welcome to my tech blog! My name is Esteban Garcia, and I'm an engineer who loves to solve problems with Open Source technologies, nowadays mostly focused on solutions on top of Kubernetes and Golang. I'm currently the Lead Infastructure Engineer at Vela Games, where I spend most of my time tinkering with multi-region infrastructure on AWS and doing my best to improve players and internal developer experience.
