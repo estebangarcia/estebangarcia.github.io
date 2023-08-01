@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome!"
-date:   2023-03-07 19:20:00 +0000
+date:   2023-08-01 16:15:00 +0000
 categories: introduction
 ---
-Welcome to my tech blog! My name is Esteban Garcia, and I'm an engineer who loves to solve problems with Open Source technologies, nowadays mostly focused on solutions on top of Kubernetes and Golang. I'm currently a Senior Platform Engineer at Vela Games, where I spend most of my time tinkering with multi-region infrastructure on AWS and doing my best to improve developer experience.
+Welcome to my tech blog! My name is Esteban Garcia, and I'm an engineer who loves to solve problems with Open Source technologies, nowadays mostly focused on solutions on top of Kubernetes and Golang. I'm currently the Lead Infastructure Engineer at Vela Games, where I spend most of my time tinkering with multi-region infrastructure on AWS and doing my best to improve players and internal developer experience.
 
 But let's be real, you didn't come here to learn about my day job. You want to know the important stuff. Like the fact that I'm from Argentina and have a deep appreciation for fernet, asado and football. And yes, I know what you're thinking, I'm living up to all the stereotypes. But hey, at least I'm not wearing a poncho (yet).
 
