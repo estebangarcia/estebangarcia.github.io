@@ -1,0 +1,10 @@
+{%- if page.comments != false -%}
+  <script src="https://utteranc.es/client.js"
+          repo="{{ site.comments_repository }}"
+          issue-number="{{ page.issue_number }}"
+          label="comment"
+          theme="github-dark"
+          crossorigin="anonymous"
+          async>
+  </script>
+{%- endif -%}

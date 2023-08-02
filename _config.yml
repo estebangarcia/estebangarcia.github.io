@@ -31,6 +31,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estebangarcia.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_excerpts: true
+comments_repository: estebangarcia/estebangarcia.github.io
+
+disqus:
+  shortname: placeholder
 
 # Build settings
 theme: minima
@@ -41,7 +45,6 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/esteban-garcia-ba57b325/" }
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
