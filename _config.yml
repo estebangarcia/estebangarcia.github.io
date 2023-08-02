@@ -33,7 +33,7 @@ url: "https://estebangarcia.io" # the base hostname & protocol for your site, e.
 show_excerpts: true
 comments_repository: estebangarcia/estebangarcia.github.io
 
-google_analytics: G-2KYRGPZQQF
+google_analytics: G-Q6W7NPTHV2
 
 disqus:
   shortname: placeholder
