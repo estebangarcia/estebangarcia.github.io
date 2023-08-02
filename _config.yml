@@ -33,6 +33,8 @@ url: "https://estebangarcia.io" # the base hostname & protocol for your site, e.
 show_excerpts: true
 comments_repository: estebangarcia/estebangarcia.github.io
 
+google_analytics: G-2KYRGPZQQF
+
 disqus:
   shortname: placeholder
 
@@ -45,6 +47,7 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/esteban-garcia-ba57b325/" }
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
