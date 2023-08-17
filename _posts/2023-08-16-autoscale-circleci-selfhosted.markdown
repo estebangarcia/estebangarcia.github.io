@@ -2,7 +2,7 @@
 layout: post
 title:  "Autoscale your CircleCI self-hosted runners"
 date:   2023-08-16 16:00:00 +0100
-categories: ci, k8s, ec2, circleci
+categories: ci k8s ec2 circleci
 permalink: /autoscale-circleci-self-hosted-runners/
 comments: true
 issue_number: 4

@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimize Unreal Engine builds with BuildGraph and CircleCI"
 date:   2023-08-02 15:15:00 +0100
-categories: ci, unreal-engine, circleci
+categories: ci unreal-engine circleci
 permalink: /optimize-unreal-engine-builds/
 comments: true
 issue_number: 2

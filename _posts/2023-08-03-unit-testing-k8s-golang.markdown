@@ -2,7 +2,7 @@
 layout: post
 title:  "Using reactors for unit testing in golang your k8s-powered code"
 date:   2023-08-03 16:00:00 +0100
-categories: golang, k8s
+categories: golang k8s
 permalink: /unit-testing-k8s-golang/
 comments: true
 issue_number: 3
