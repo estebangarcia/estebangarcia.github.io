@@ -10,7 +10,7 @@ issue_number: 4
 
 Greetings, fellow builders of continuous integration dreams! Today, we're diving into the exhilarating world of scaling, but not just any scaling – we're talking about autoscaling your CircleCI self-hosted runners. If you've ever wished for a magic potion to automatically expand your runner fleet to handle surges in your CI/CD demands, you're in luck! In this post, we're going to uncover the secrets of unleashing the power of autoscaling your runners. So, fasten your seatbelts and prepare to embark on an adventure into the realm of dynamic and efficient CI/CD scalability! 🚀🔥
 
-I already created a post about our decision at Vela Games of moving off of Jenkins to CircleCI and the engineering behind our game build pipeline for Evercore Heroes. If you haven’t seen it yet you can [read it here.](https://estebangarcia.io/optimize-unreal-engine-builds/)
+I already created a post about our decision at Vela Games to move off of Jenkins to CircleCI and the engineering behind our game build pipeline for Evercore Heroes. If you haven’t seen it yet you can [read it here.](https://estebangarcia.io/optimize-unreal-engine-builds/)
 
 In this post, as ChatGPT very creatively explained in the introduction, I want to share our reasoning behind how we handled auto-scaling our CircleCI self-hosted runners and I’m happy to announce we are [open-sourcing the code](https://github.com/estebangarcia/circleci-runner-autoscaler) behind this so anyone can benefit from it.
 
